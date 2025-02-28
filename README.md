@@ -1,2 +1,2 @@
 # coursera
-IBM coursera peer review final assihnment
+IBM coursera peer review final assignment
